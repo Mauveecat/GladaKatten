@@ -1,0 +1,21 @@
+body {
+    background-color: navy;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 40pt;
+}
+
+#container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.image {
+    border: black;
+    border-style: dashed;
+    width: 50%;
+}
